@@ -29,6 +29,7 @@ import java.util.UUID;
 @SpringBootTest(classes = ServiceAdminApplication.class)
 @Transactional
 @Rollback
+@ActiveProfiles("prod")
 public class AdminServiceTest {
 
     @Autowired
