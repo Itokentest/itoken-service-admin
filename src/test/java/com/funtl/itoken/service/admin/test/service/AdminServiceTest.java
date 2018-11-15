@@ -1,7 +1,7 @@
 package com.funtl.itoken.service.admin.test.service;
 
+import com.funtl.itoken.common.domain.TbSysUser;
 import com.funtl.itoken.service.admin.ServiceAdminApplication;
-import com.funtl.itoken.service.admin.domain.TbSysUser;
 import com.funtl.itoken.service.admin.service.AdminService;
 
 import org.junit.Assert;
